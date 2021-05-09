@@ -223,11 +223,22 @@ Response:
 Informatiile extrase au fost prelucrate si inserate in articole wordpress prin intermediul metodei wp_post_insert
 
 ## Capturi ecran
+
+### Homepage:
+
 ![Homepage](https://oanadiaconu.com/capturi/homepage_blog.png "Homepage")
+
+### Articol automat:
+
 ![Articol automat](https://oanadiaconu.com/capturi/articol_creat_automat.png "Articol automat")
+
+### Review - Disponibilitate:
+
 ![Review-Disponibilitate](https://oanadiaconu.com/capturi/review_si_disponibilitate_film.png "Review-Disponibilitate")
 
 ## Referinte
 [DOC API TMDB](https://developers.themoviedb.org/3/getting-started/introduction)
+
 [DOC API OMDB](http://www.omdbapi.com/)
+
 [URL Aplicatie](https://oanadiaconu.com)
